@@ -1,0 +1,16 @@
+.isExpress {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #DBDFEB;
+    height: 70px;
+}
+.ExpressInner {
+    display: flex;
+   align-items: center;
+   justify-content: space-between;
+    padding:0 20px;
+    height: 100%;
+}
+
+
+

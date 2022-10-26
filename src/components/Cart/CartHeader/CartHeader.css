@@ -1,0 +1,30 @@
+.cartHeader {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #DBDFEB;
+    height: 71px;
+}
+
+.cartHeaderInner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    height: 100%;
+}
+
+.cartHeaderTitle {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 16px;
+    width: 90px !important;
+
+}
+
+
+.cartHeaderSearch{
+   
+
+}

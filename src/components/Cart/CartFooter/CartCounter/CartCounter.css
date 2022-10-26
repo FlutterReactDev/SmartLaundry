@@ -1,0 +1,26 @@
+.CartCounter {
+  display: flex;
+}
+
+.CartCount {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+  color: #191933;
+  margin: 0 15px;
+}
+
+.CartButton {
+  border: 1px solid #dbdfeb;
+  border-radius: 5px;
+  width: 30px;
+  height: 30px;
+  background: none;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

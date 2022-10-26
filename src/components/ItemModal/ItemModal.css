@@ -1,0 +1,94 @@
+.ItemModalWidth {
+  max-width: 450px !important;
+}
+
+.ItemModal {
+  font-family: "Inter";
+}
+
+.ItemModalHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 35px 40px;
+}
+
+.ItemModalHeaderTitle {
+  font-size: 21px;
+  color: #000000;
+}
+
+.ItemModalBody {
+  padding: 0 40px;
+  margin-bottom: 30px;
+}
+
+.FormGroup {
+  margin-bottom: 20px;
+}
+
+.FormGroup input {
+  padding: 15px;
+  border: 1px solid #f3f1fa;
+  border-radius: 10px;
+}
+
+.FormGroup select {
+  padding: 15px;
+  border: 1px solid #f3f1fa;
+  border-radius: 10px;
+}
+
+.ItemModalFooter {
+  padding: 27px 20px;
+  background: #00a583;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ItemModalFooter button {
+  background: none;
+  color: #ffffff;
+  text-align: left;
+  border: none;
+}
+
+.ItemModalBodyTitle {
+  font-size: 14px;
+
+  color: #1a191f;
+  margin-bottom: 15px;
+}
+
+.PrintBtn {
+  border: 1px solid #dbdfeb;
+  border-radius: 5px;
+  padding: 0;
+  background: none;
+  padding: 5px 10px;
+  display: flex;
+  align-items: center;
+}
+
+.PrintBtn img {
+  margin-right: 9px;
+}
+
+.ModalFooterIcon {
+  width: 30px;
+  height: 30px;
+  background: #ffffff;
+
+  border: 1px solid #dbdfeb;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 4px;
+}
+
+.ItemModalFooterBtn {
+    display: flex;
+    align-items: center;
+    color: #000000;
+}

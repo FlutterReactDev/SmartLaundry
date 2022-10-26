@@ -1,0 +1,35 @@
+.CartFooterItem {
+  padding: 0 20px;
+  border-top: 1px solid #dbdfeb;
+  height: 71px;
+  display: flex;
+  align-items: center;
+}
+.CartFooterSend {
+  border-top: 1px solid #dbdfeb;
+  padding: 0;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.CartFooterBtn {
+  height: 70px;
+  width: 149px;
+  background: #00a583;
+  font-family: "Inter";
+  color: #ffffff;
+  border: none;
+}
+
+.SendIconBtn {
+  background: none;
+  border: 1px solid #dbdfeb;
+  border-radius: 5px;
+ width: 30px;
+ height: 30px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}

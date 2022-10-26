@@ -1,0 +1,87 @@
+.SingleCartItem {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    gap: 10px;
+    width: 100%;
+    /* Gray/Light */
+
+    background: #EEEFF4;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+
+    border-bottom:1px solid #DBDFEB;
+}
+
+.SingleCartItem:last-child {
+    border:none;
+}
+
+.InfoInner {
+    display: flex;
+}
+
+.SingleCartItem .Count {
+
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    width: 21px;
+    height: 15px;
+    background: #403FEA;
+    border-radius: 20px;
+    margin-right: 7px;
+}
+
+.SingleCartItem .Count{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 15px;
+    color: #D9D9D9;
+}
+
+.SingleCartItem .CartTitle {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #191933;
+
+}
+
+.SingleCartItem .CartDesc {
+    width: 116px;
+    height: 16px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+
+    color: #959595;
+}
+
+.SingleCartItem .ItemPrice {
+    width: 58px;
+    height: 16px;
+    left: 211px;
+    top: 34.5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    color: #191933;
+}

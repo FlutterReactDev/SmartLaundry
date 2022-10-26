@@ -1,0 +1,11 @@
+.ServiceFooter {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+  height: 70px;
+  align-items: center;
+}
+.ServiceFooterItem {
+  font-family: "Inter";
+  color: #191933;
+}

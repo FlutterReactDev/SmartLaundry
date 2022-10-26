@@ -1,0 +1,43 @@
+.categoryLine {
+  height: 1px;
+  background: #dbdfeb;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.componentLine {
+  border-right: solid;
+  border-width: 1px;
+  border-color: #dbdfeb;
+  height: 100vh;
+}
+
+.MainServiceInner {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.CategoryFooter {
+  font-family: "Inter";
+  font-size: 15px;
+  margin-bottom: 26px;
+}
+
+.CategoryLogo {
+  font-weight: 700;
+  font-size: 20px;
+
+  color: #191933;
+  margin-bottom: 17px;
+}
+
+.CategoryCopyright {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  margin-top: 13px;
+  color: #959595;
+
+}

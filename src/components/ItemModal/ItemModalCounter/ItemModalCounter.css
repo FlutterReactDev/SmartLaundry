@@ -1,0 +1,16 @@
+.ModalCounter {
+  display: flex;
+  align-items: center;
+}
+.ModalCounter button{
+    border: none;
+    background: none;
+    padding: 0;
+}
+.ModalCount {
+  font-weight: 600;
+  font-size: 25px;
+
+  color: #191933;
+  margin: 0 15px;
+}

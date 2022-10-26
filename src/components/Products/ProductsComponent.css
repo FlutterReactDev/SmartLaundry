@@ -1,0 +1,9 @@
+.productsComponentMain {
+  padding-top: 10px;
+  display: flex;
+  flex-wrap:wrap ;
+}
+.productsComponentMainInner {
+  overflow-y: auto;
+  flex-grow: 1;
+}

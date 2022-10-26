@@ -1,0 +1,8 @@
+.CartItemsArea {
+    flex-grow: 1;
+        overflow-y: auto;
+}
+
+.CartItemsAreaButton{
+    border-radius: 0 !important;
+}

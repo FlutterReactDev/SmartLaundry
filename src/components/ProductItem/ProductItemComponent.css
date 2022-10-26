@@ -1,0 +1,54 @@
+.productItemMain {
+    margin: 10px;
+    height: 122px;
+}
+
+.productItemTitle {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 16px;
+    color: #191933;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.productItemCounterBlock {
+    width: 30px;
+}
+
+.productItemCounterBlock {
+    margin-top: 36px  !important;
+    align-content: center;
+    width: 120px;
+    display: flex;
+}
+.counterElements {
+    margin-left: 10px;
+}
+.counterLabel {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+}
+.minusButtonInitial {
+
+    width: 30px;
+    height: 30px;
+    background-image: url(minusButton.png) ;
+    background-size: contain;
+
+}
+.plusButtonInitial {
+
+    width: 30px;
+    height: 30px;
+    background-image: url(plusButton.png) ;
+    background-size: contain;
+
+}

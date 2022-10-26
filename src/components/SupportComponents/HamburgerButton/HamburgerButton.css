@@ -1,0 +1,14 @@
+.hamburgerButton {
+    box-sizing: border-box;
+    width: 30px;
+    height: 30px;
+    left: 260px;
+    top: 18px;
+    background: #FFFFFF;
+    background-image: url(hamburgerMenu.png) ;
+    background-size: contain;
+    /* Gray/Dark */
+    border: 1px solid #DBDFEB;
+    border-radius: 5px;
+
+}
