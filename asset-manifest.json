@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SmartLaundry/static/css/main.7ccf6e80.css",
+    "main.js": "/SmartLaundry/static/js/main.53ac4383.js",
+    "static/js/787.03bba5fd.chunk.js": "/SmartLaundry/static/js/787.03bba5fd.chunk.js",
+    "static/media/logout.svg": "/SmartLaundry/static/media/logout.d19529ed16c489ea7be3b98d2034ac41.svg",
+    "static/media/arrowUp.svg": "/SmartLaundry/static/media/arrowUp.528c2d88902c0bd6a48bc3aebb0168de.svg",
+    "static/media/Search.svg": "/SmartLaundry/static/media/Search.127fa72c650d57dbd6dab2994ed0e512.svg",
+    "index.html": "/SmartLaundry/index.html",
+    "static/media/clock.svg": "/SmartLaundry/static/media/clock.795457b48c999e41626966b4c21a4c5f.svg",
+    "static/media/Close.svg": "/SmartLaundry/static/media/Close.6623275ec7dd517b1c5f7edc9f6e74a5.svg",
+    "static/media/Decrease.svg": "/SmartLaundry/static/media/Decrease.b96ab2d89463a2f35145fdbb1d978b26.svg",
+    "static/media/Add.svg": "/SmartLaundry/static/media/Add.ebb92a5bbd3a7ca6d8b0b6f8a41b02d0.svg",
+    "static/media/Increase.svg": "/SmartLaundry/static/media/Increase.3b4b744568d51f249cdbd8b56e0a5935.svg",
+    "static/media/Print.svg": "/SmartLaundry/static/media/Print.a78458be709e5aeb53e55d809c667f66.svg",
+    "static/media/Minus.svg": "/SmartLaundry/static/media/Minus.8cdf0e8a5e69a4f8a0f888f42f5bec02.svg",
+    "main.7ccf6e80.css.map": "/SmartLaundry/static/css/main.7ccf6e80.css.map",
+    "main.53ac4383.js.map": "/SmartLaundry/static/js/main.53ac4383.js.map",
+    "787.03bba5fd.chunk.js.map": "/SmartLaundry/static/js/787.03bba5fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ccf6e80.css",
+    "static/js/main.53ac4383.js"
+  ]
+}
